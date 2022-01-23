@@ -8,5 +8,7 @@ int main()
 
         printf( "The net salary is $%0.2lf.\n", computed_net_salary );
 
+        puts( "Done." );
+
         return EXIT_SUCCESS;
 }
